@@ -13,26 +13,26 @@ If you have not previoulsy used Figma,
 2. (Optional) Download the Figma desktop app for smoother performance.
 ### Learn the basics:
 Here are some basic concepts and tools that you can use in Figma:
-#### 00 Style Guide
+#### Style Guide
 Use this page to define your project’s visual identity.
 Colors: Primary, secondary, accent, and background tones.
 Typography: Heading, subheading, and body text styles.
 Components: Buttons, input fields, and common UI elements with Auto Layout.
 This page acts as your “design system” — update it once, and reuse styles across pages.
 
-#### 01 Wireframes
+#### Wireframes
 Low-fidelity layouts for brainstorming and structure.
 Use grey boxes and simple labels (“Image”, “Button”, “Text Block”).
 Build both Desktop (1440x1024) and Mobile (390x844) versions.
 Focus on layout, not color or polish yet.
 
-#### 02 Mockups
+#### Mockups
 High-fidelity designs that use your style guide’s colors and components.
 Replace wireframe boxes with actual components.
 Apply shadows, gradients, icons, and imagery.
 Include one desktop and one mobile layout to show responsiveness.
 
-#### 03 Prototype
+#### Prototype
 Create linked, clickable flows for demos or testing.
 Use Prototype Mode (top-right in Figma).
 Connect buttons to other frames.
