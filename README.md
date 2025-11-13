@@ -1,4 +1,4 @@
-# figma-starter
+# Figma Starter
 
 Hi, welcome to Hack@Brown's Figma starter kit. We will go over the basics of how to use Figma 
 to design, prototype, and collaborate on beautiful UI/UX designs. Figma is a cloud-based design 
