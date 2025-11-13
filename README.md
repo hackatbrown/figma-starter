@@ -15,9 +15,10 @@ If you have not previoulsy used Figma,
 Here are some basic concepts and tools that you can use in Figma:
 #### Style Guide
 Use this page to define your project’s visual identity.
-Colors: Primary, secondary, accent, and background tones.
-Typography: Heading, subheading, and body text styles.
-Components: Buttons, input fields, and common UI elements with Auto Layout.
+- Colors: Primary, secondary, accent, and background tones.
+- Typography: Heading, subheading, and body text styles.
+- Components: Buttons, input fields, and common UI elements with Auto Layout.
+
 This page acts as your “design system” — update it once, and reuse styles across pages.
 
 #### Wireframes
